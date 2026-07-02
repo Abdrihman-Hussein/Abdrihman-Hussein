@@ -15,7 +15,7 @@
 
 <img align="right" alt="Data GIF" src="https://media.giphy.com/media/SWoRKslHVtqjvwlV81/giphy.gif" width="250" height="200" />
 
-- 📊 **Data Analyst** | Intermediate Level
+- 📊 **Data Analyst** | 
 - 🐍 **Python Developer** for data analysis
 - 💾 **SQL Proficient** | Database Queries
 - 📈 **BI Tools Expert** | Tableau & Power BI
