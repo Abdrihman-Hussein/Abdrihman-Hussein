@@ -86,7 +86,7 @@
 <p align="center">
   <i>"Learn consistently. Build projects. Let results speak."</i>
 </p>
-## Hi there 👋
+
 
 <!--
 **Abdrihman/Abdrihman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
