@@ -1,39 +1,83 @@
 <h1 align="center">Hi 👋, I'm Abdrihman Hussein</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Junior+Data+Analyst;Aspiring+Data+Scientist;Full-Stack+Web+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+Enthusiast;Learning+Data+Science" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdrihman&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Abdrihman-Hussein&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Abdrihman-Hussein?style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-- 📊 Junior Data Analyst | Aspiring Data Scientist
-- 💹 Financial Accountant
-- 💻 Full-Stack Web Developer
-- 🛠️ Tech Stack: Python, SQL, JavaScript, Node.js, HTML/CSS, Tailwind & Power BI
+<img align="right" alt="Data GIF" src="https://media.giphy.com/media/SWoRKslHVtqjvwlV81/giphy.gif" width="250" height="200" />
+
+- 📊 **Data Analyst** | Intermediate Level
+- 🐍 **Python Developer** for data analysis
+- 💾 **SQL Proficient** | Database Queries
+- 📈 **BI Tools Expert** | Tableau & Power BI
+- 📉 **Data Visualization** | Storytelling with Data
+- 🚀 **Continuous Learner** | Growing into Data Science
 - 🌍 From Somalia
-- 🎯 Goal: Master Data Science and ML to build intelligent systems
 
 ---
 
-## 💻 Tech Stack
+## 💼 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,nodejs,js,html,css,tailwind,powerbi,excel,pytorch,tensorflow,numpy,pandas,sklearn,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,numpy,pandas,sklearn,matplotlib,seaborn,powerbi,excel,jupyter,git,github,vscode" />
 </p>
+
+<div align="center">
+
+### Core Data Analysis Tools
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Business Intelligence & Visualization
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-220052?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 💪 My Skills
+
+<div align="center">
+
+| Skill | Proficiency | Experience |
+|:---:|:---:|:---|
+| **Python Data Analysis** | ⭐⭐⭐⭐ | Pandas, NumPy, Data Processing |
+| **SQL Queries** | ⭐⭐⭐⭐ | SELECT, JOIN, Aggregations |
+| **Data Visualization** | ⭐⭐⭐⭐ | Matplotlib, Seaborn, Tableau |
+| **BI Dashboards** | ⭐⭐⭐ | Tableau, Power BI Reports |
+| **Excel** | ⭐⭐⭐⭐ | Pivot Tables, Advanced Formulas |
+| **Statistical Analysis** | ⭐⭐⭐ | Descriptive Stats, EDA |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdrihman&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdrihman&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdrihman-Hussein&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdrihman-Hussein&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -41,7 +85,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdrihman&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Abdrihman-Hussein&theme=tokyonight&hide_border=true&background=000000"/>
 </p>
 
 ---
@@ -49,56 +93,87 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdrihman&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdrihman-Hussein&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdrihman&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdrihman-Hussein&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 2026 Data Science & ML Roadmap
+## 🎯 2026 Data Science Roadmap
 
-- 🐍 **Phase 1:** Master Python for Data Science (NumPy, Pandas, Matplotlib)
-- 💾 **Phase 2:** Deep dive into SQL and Relational Database Management
-- 🧠 **Phase 3:** Learn Machine Learning algorithms (Scikit-Learn)
-- 🤖 **Phase 4:** Explore Deep Learning (PyTorch/TensorFlow)
-- 📊 **Phase 5:** Build End-to-End Data Science Projects
-- 🚀 **Phase 6:** Contribute to Open Source Data Science libraries
+```
+Current: Intermediate Data Analyst
+              ↓
+Phase 1: 🐍 Master Python for Data Science
+         (NumPy, Pandas, Matplotlib, Seaborn)
+              ↓
+Phase 2: 💾 SQL Expert
+         (Complex Queries, Database Optimization)
+              ↓
+Phase 3: 📊 Build Portfolio Projects
+         (Real-world Data Analysis)
+              ↓
+Phase 4: 🤖 Machine Learning Fundamentals
+         (Scikit-learn, Algorithms)
+              ↓
+Phase 5: 📈 Advanced Analytics & Insights
+              ↓
+Goal: Proficient Data Scientist 🚀
+```
 
 ---
 
-## 📫 Connect With Me
+## 📂 What I Work On
+
+- 📊 **Data Exploration & Analysis** - EDA with Python & SQL
+- 📈 **Dashboard Creation** - Tableau & Power BI visualizations
+- 🐍 **Python Scripts** - Data cleaning & transformation
+- 💾 **SQL Queries** - Data extraction & analysis
+- 📉 **Statistical Reports** - Business insights
+
+---
+
+## 💬 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Abdrihman">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Abdrihman-Hussein">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:wanaagsand@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 🎓 Currently Learning
+
+```
+→ Machine Learning Algorithms
+→ Advanced Statistical Analysis  
+→ Data Engineering Concepts
+→ Big Data Fundamentals
+```
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jIgIfvn2Cpsiz2IAsf/giphy.gif" width="80" alt="Celebration" />
+  
+  <h3>"Turning Data into Actionable Insights"</h3>
+  
+  <i>Data Analyst | Python & SQL Enthusiast | Always Learning</i>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Learn consistently. Build projects. Let results speak."</i>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-👋-yellow?style=for-the-badge"/>
 </p>
-
-
-<!--
-**Abdrihman/Abdrihman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
