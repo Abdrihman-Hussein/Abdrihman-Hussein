@@ -109,7 +109,7 @@
 ## 🎯 2026 Data Science Roadmap
 
 ```
-Current: Intermediate Data Analyst
+Current: Data Analyst
               ↓
 Phase 1: 🐍 Master Python for Data Science
          (NumPy, Pandas, Matplotlib, Seaborn)
